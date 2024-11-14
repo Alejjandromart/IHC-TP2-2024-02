@@ -57,7 +57,7 @@
 - [📊 Tabela de Discriminação](./docs/5._Avaliação_Usabilidade/5.4_Tabela_Discriminação.md)
 
 #### 7 - Apresentação
-- [🎥 Slides](./docs/5._Avaliação_Usabilidade/5.1_Relatório_Inspeção.md)
+- [🎥 Slides](https://www.canva.com/design/DAGWRvMUHw8/ajibGDxoFIkAbUMXdJ1fGA/view?utm_content=DAGWRvMUHw8&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
 
 ## Referências
 
